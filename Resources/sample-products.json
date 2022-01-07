@@ -1,0 +1,42 @@
+[
+    {
+        "id": "144f56de-8d65-4b44-a5e2-d8c2db3dcd7a",
+        "title": "Coca-cola",
+        "description": "coca-cola",
+        "image_url": "https://images.unsplash.com/photo-1527960392543-80cd0fa46382?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=654&q=80",
+        "quantity": 1,
+        "price": 1.99
+    },
+    {
+        "id": "a794c7c3-49fa-4de2-a46e-9773e206a231",
+        "title": "Lays",
+        "description": "lays chips",
+        "image_url": "https://images.unsplash.com/photo-1599493356626-9fdbdabfd9bd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bGF5cyUyMGNoaXBzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "quantity": 1,
+        "price": 3.99
+    },
+    {
+        "id": "3e72faaf-c465-4bd2-8989-c3c50bc9d166",
+        "title": "Milk",
+        "description": "milk",
+        "image_url": "https://images.unsplash.com/photo-1576186726115-4d51596775d1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fG1pbGt8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "quantity": 1,
+        "price": 2.99
+    },
+    {
+        "id": "83d3fd6e-6a65-44fa-80aa-612df50478b9",
+        "title": "Beer",
+        "description": "beer",
+        "image_url": "https://images.unsplash.com/photo-1618183479302-1e0aa382c36b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+        "quantity": 1,
+        "price": 5.99
+    },
+    {
+        "id": "b4e0ea68-702d-40d6-b82b-f848d555f507",
+        "title": "Pizza",
+        "description": "pizza",
+        "image_url": "https://images.unsplash.com/photo-1571066811602-716837d681de?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=536&q=80",
+        "quantity": 1,
+        "price": 9.99
+    }
+]
